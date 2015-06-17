@@ -1,3 +1,5 @@
+import turtle 
+
 def drawSquare(t, sz):
     for i in range(4):
         t.forward(sz)
