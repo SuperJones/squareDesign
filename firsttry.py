@@ -21,7 +21,7 @@ wn.bgcolor("lightgreen")
 
 alex = turtle.Turtle()
 alex.color("hotpink")
-
+alex.pensize(3)
 
 Instruct(alex, 20, -10.0, 6)
 
